@@ -6,4 +6,3 @@ Graphic Designer ,frontend developer
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [razikshariff7094@gmail.com](mailto:razikshariff7094@gmail.com)
-*   🧠  I'm learning JavaFX and App Development
